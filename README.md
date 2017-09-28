@@ -2,11 +2,12 @@
 List with what you should do when creating new website with magento
 
 
-
-<a href="#session-setup">Setup Session and Cache to delete every day</a> </br>
-<a href="#add-robots"> Add Robots.txt</a>
-
-
+<div class="directory">
+	<ul>
+		<li><a href="#session-setup">Setup Session and Cache to delete every day</a></li>
+		<li><a href="#add-robots"> Add Robots.txt</a></li>
+	</ul>
+</div>
 
 
 <div id="session-setup">
