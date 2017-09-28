@@ -8,5 +8,5 @@ List with what you should do when creating new website with magento
 -----Setup Cronjob to run this file example: sh /dir-parth/delete-cache-sessions.sh
 
 
--<b>Add Robots.txt<b></br>
+-<b>Add Robots.txt</b></br>
 --check robots.txt file
