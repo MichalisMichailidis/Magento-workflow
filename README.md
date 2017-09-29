@@ -1,5 +1,5 @@
-# Magento-workflow
-List with what you should do when creating new website with magento
+# Magento Workflow Guide
+Personal list with what you should do when creating new website with magento and what to not forget.
 
 
 <div class="directory">
@@ -10,7 +10,7 @@ List with what you should do when creating new website with magento
 </div>
 
 
-<div id="session-setup">
+<div style="background-color: #f1f1f1;" id="session-setup">
 check delete-cache-sessions.sh file.</br>
 Setup Cronjob to run this file example: sh /dir-parth/delete-cache-sessions.sh
 </div>
