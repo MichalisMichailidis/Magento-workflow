@@ -11,14 +11,14 @@ Personal list with what you should do when creating new website with magento and
 
 
 <div id="session-setup">
-	**Setup Session and Cache to delete every day**
+	## Setup Session and Cache to delete every day
 check delete-cache-sessions.sh file.</br>
 Setup Cronjob to run this file example: sh /dir-parth/delete-cache-sessions.sh
 </div>
 
 
 <div id="add-robots">
-	**Add Robots.txt**
+	## Add Robots.txt
  check for robots.txt file
 </div>
 
