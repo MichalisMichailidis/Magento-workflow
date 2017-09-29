@@ -15,7 +15,6 @@ check delete-cache-sessions.sh file.</br>
 Setup Cronjob to run this file example: sh /dir-parth/delete-cache-sessions.sh
 </div>
 
-<br/><br/>
 
 <div id="add-robots">
  check for robots.txt file
